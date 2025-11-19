@@ -1,0 +1,34 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [155] using StatReload
+INFO:     Started server process [157]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:51638 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:51656 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51654 - "GET /api/about HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51694 - "GET /api/partner HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51656 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51654 - "GET /api/about HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51694 - "GET /api/partner HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51670 - "GET /api/production HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51682 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51694 - "GET /api/production HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51670 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51694 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51670 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47082 - "GET /api/about HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41962 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47082 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41996 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41980 - "GET /api/partner HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41970 - "GET /api/production HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41962 - "GET /api/news HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47082 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41996 - "GET /api/partner HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41980 - "GET /api/production HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41984 - "GET /api/about HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41962 - "GET /api/film HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39714 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39714 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39714 - "GET /api/application HTTP/1.1" 200 OK
